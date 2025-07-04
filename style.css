@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fef8f0;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+header, footer {
+  background: #d3bfa4;
+  text-align: center;
+  padding: 1em;
+}
+nav a {
+  margin: 0 10px;
+  color: #000;
+  text-decoration: none;
+}
+.tour-grid {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+.tour-item {
+  background: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
